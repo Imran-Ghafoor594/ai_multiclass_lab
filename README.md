@@ -44,7 +44,7 @@ https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset
 
 ---
 # Project Directory
-```text
+```
 ai-multiclass-lab/
 │
 ├── data/
@@ -84,6 +84,7 @@ ai-multiclass-lab/
 ├── .gitignore
 ├── dvc.yaml
 └── main.py
+```
 
 # Technologies Used
 
